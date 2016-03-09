@@ -1,0 +1,64 @@
+1 - Cedric Salenc * 3 3 3 1 
+2 - Bob Witteveen 0 * 3 3 2 
+3 - Lothar Winzer 0 0 * 2 1 
+4 - Luca Stagnaro 2 0 3 * 3 
+5 - Richard Knowles 3 3 3 2 * 
+
+1 - Simon Weinberg * 3 * 3 3 
+2 - Chris Jewell 1 * * 3 3 
+3 - Robert Blommenstijn * * * * * 
+4 - Norrie Wright 0 2 * * 3 
+5 - Petteri Nieminen 0 0 * 2 * 
+
+1 - Stephen Hernandez * 3 3 3 3 
+2 - Ivo Ferreira 0 * 2 3 3 
+3 - Emilien Lemoine 0 3 * * 2 
+4 - Benjamin Vanoutryve 2 1 * * 1 
+5 - John Simpson 1 1 3 3 * 
+
+1 - Heinz Karl * 0 0 3 3 
+2 - Simon johns 3 * 3 3 3 
+3 - Francois Bausier 3 0 * 0 3 
+4 - Ken Hernan 2 2 3 * 3 
+5 - Scott Moon 2 0 1 0 * 
+
+1 - Alex Palacios * * 3 * 0 
+2 - Gijsbert Tan * * 3 * 0 
+3 - Francesc Coromina 1 1 * * 0 
+4 - Neil Melville * * * * * 
+5 - Charles Lahorgue 3 3 3 * * 
+
+1 - Alberto Bramante * 3 * 3 3 
+2 - Frank Vinkestijn 0 * 3 * * 
+3 - Jan Tauber * 2 * * * 
+4 - Simon Laird 2 * * * 3 
+5 - Johan Vennekens 0 * * 0 * 
+
+1 - Giovanni Santin * 2 3 1 * 
+2 - Duncan Gibson 3 * 3 1 3 
+3 - Andrew Hyslop 1 2 * 1 1 
+4 - Chris van der Hagen 3 3 3 * 2 
+5 - Ali Khan * 2 3 3 * 
+
+1 - Jean-Baptiste Rimpot * 3 3 3 3 
+2 - Slawomir Zdybski * * 3 3 3 
+3 - Atul Deep 3 * * 3 3 
+4 - Matteo Tacconi 1 0 * * 3 
+5 - Liam Murphy 1 2 0 * * 
+
+1 - Anne Pacros * 0 1 1 * 
+2 - Roberto Prieto Cerdeira * * 3 * 3 
+3 - Franziska Erkelens * * * * 3 
+4 - Mario Lopriore * * * * * 
+5 - Julien Roman 3 * * * * 
+
+1 - Kelly Geelen * * * * * 
+2 - Lindy Spiteri 1 * * * * 
+3 - Lucia Hernando 3 * * 1 3 
+4 - Arvind Parmar * 0 3 * 3 
+5 - Romain Peyrou-Lauga 3 * 2 * * 
+
+1 - Joachim Fuchs * 3 * 3 3 
+2 - Christoph Hass 0 * 1 * 3 
+3 - Houssem Laroussi 0 0 * 0 * 
+4 - Rogier Schonenborg * * 0 * * 

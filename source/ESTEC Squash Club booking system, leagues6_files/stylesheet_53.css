@@ -1,0 +1,53 @@
+/* CSS Document */
+BODY { 
+	background:url(../images/53.gif) repeat;
+	margin:0 auto;
+	padding:0; 
+	color:#000;
+	}
+
+A { color:#000; }
+H1, H2, H3 { }
+
+#wrapper { margin:8px auto; width:1022px; padding:0; background:none;  }
+	
+	#header { height:142px; margin:0; padding:0; background:url(../images/53_header-bgd.jpg) no-repeat; border:1px solid #fff; }
+	
+	#nav { margin:0; padding:10px 0; background:none; text-align:center; }
+	#nav A { color:#fff; margin:0 5px; padding:10px; }
+	#nav A:HOVER, #nav A.selected { }
+	#nav_cms { display:none;  }
+	
+	#col_wrapper { margin:0; padding:1em 0; background:#fff; }
+		#left_col { float:left; margin:0 0 0 20px; width:180px; padding:0; background:none; }
+		#left_col .panel { border:0; background:none; } 
+		#left_col #login_panel { }
+		#left_col #select_date_wrapper { }
+		#nav_booking_rules {}
+		DIV#select_date DIV.left_side_date A { margin:0 0 0 -15px; }
+
+		#right_col { float:left; margin:0 0 0 20px; width:780px; padding:0; background:#fff; }
+		
+			.nested_column { width:190px; margin:0 5px 0 0; border-bottom:1px dotted #aaa; }
+			.nested_column H3 {}
+			/*
+			.courtname { margin:1em 0 0 0 !important; }
+			.courtdescr { text-transform:uppercase; font-weight:normal; margin:0 0 1em 0 !important; }
+			*/
+			.court_available, .court_booked { margin-bottom:0; border:0; border-top:1px dotted #aaa; }
+			.court_available { background:#fff; }
+			.court_booked { background:#dee7f0; }
+			.court_booked.team { background:#ede4db !important; }
+			
+			#court354 { margin-right:0; }
+
+			#map { width:750px; }
+	
+	#footer { margin:5px 0 4em 0; padding:30px 0; border:0; color:#000; background:url(../images/53_wood-floor.jpg) no-repeat #deaf7a; border:1px solid #fff;  }
+	#footer A { color:#000; }
+
+#hbi { width:960px; margin:0 auto; padding:0; border:0;   }
+#hbi, #hbi A { color:#fff;  } 
+#mycourts_logo { height:30px; background:url(../images/mycourts_white_150.png) center no-repeat; }
+
+

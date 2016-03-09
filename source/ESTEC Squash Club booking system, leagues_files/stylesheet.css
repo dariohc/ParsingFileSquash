@@ -1,0 +1,189 @@
+/* CSS Document */
+body { 
+	margin:3px auto; 
+	font-family:"Trebuchet MS", "Lucida Sans Unicode", Arial, sans-serif;
+	font-size:100%;
+	font-size:.8125em;
+	background:none; /* default bgd color */
+	}
+H1 { margin-top:.25em; }
+h3.bookings { }
+h4.bookings {  }
+A { color:#000; }
+HR { border:0; height:1px; background-color:#ccc; color:#ccc; }
+form { margin:0; padding:0; }
+.text_input { width:200px; }
+#wrapper { width:868px; margin:auto; }
+#header { height:84px;  padding:0; overflow:hidden;  }
+#nav { padding:3px 10px; font-weight:bold; text-decoration:none; }
+#nav a { font-weight:bold; text-decoration:none; white-space:nowrap; }
+#nav a:hover { text-decoration:underline; }	
+#nav_cms { padding:3px 10px; font-weight:bold;  }
+#nav_cms a { text-decoration:none; white-space:nowrap; }
+#nav_cms a:hover { text-decoration:underline; }	
+#col_wrapper { padding:1em 0; background:#ffffff; }
+#left_col { float:left;  width:190px; padding:0 5px; }
+#left_col .panel { margin-bottom:20px; border:1px dotted #a0a0a0; padding:10px; background-color:#fafafa; }
+#member_login_heading { margin:0 0 3px 0; font-weight:bold; text-transform:uppercase; }
+#booking_sheets_heading { margin:0 0 1em 0; font-weight:bold; text-transform:uppercase; }
+#left_col A { }
+#right_col 	{ float:right; margin:0 10px 0 0;  border:0; padding:0 10px; width:628px; background:#ffffff; }
+.two_cols { float:left; margin:0 1em 1em 0; border:0; min-width:206px; border:1px dotted #cccccc; padding:1em; }
+.right_col_nested_col { float:left; margin:0 20px 0 0; padding:10px; width:270px;  border:1px dotted #cccccc; } 
+.end_floats { clear:both; }
+#footer { padding:1em 0; text-align:center; background:none; border-top:0; }
+#footer a { color:#e0e0e0; }
+#banners { margin:2em auto; }
+#sponsors {  }
+#hbi { margin:2em auto; padding:.5em 0; width:868px; text-align:center;  }
+#hbi a { color:#e0e0e0; }
+#hbi H1 { font-size:small; padding:0; margin:1em 0; }
+#map { margin:1em 0; width:600px; height:750px; }
+.nested_column { float:left; width:150px; border-bottom:1px dotted #aaa; margin:0 5px 2em 0; }
+.courtname { text-transform:uppercase; font-weight:bold; margin:1em 0; }
+.courtdescr {}
+.court_available { background:#fff; }
+.court_available:hover { background:#fafafa; border-color:#999; }
+.court_available A { }
+.court_booked { color:#000; background:#efefef;  }
+/*.court_available, .court_booked { margin-bottom:2px; border:1px solid #aaa; }*/
+.court_available, .court_booked { margin-bottom:0; padding:0 3px 2px 3px; min-height:38px; border:0; border-top:1px dotted #aaa; }
+.court_booked A {  }
+.court_available { background:#fff; }
+.court_booked { background:#dee7f0; }
+.court_booked.team { background:#ede4db !important; }
+.showcancellation { color:#bbbbbb; }
+.showcost { margin-left:35px; color:#888888; }
+.form_table { background:#ddd; margin:1em 0; }
+.form_table TH { background:#efefef; padding:3px 10px; font-weight:bold; text-align:left; }
+.form_table TD { background:#fafafa; padding:2px 10px;}
+.form_table TD.league_player_img { padding:0; width:27px; }
+.form_table TH.league { min-width:100px; text-align:left; }
+.form_table TD.league_player_img, .tbl TD.league_player_img { padding:0; width:27px; }
+.form_table TD.player { min-width:100px;  }
+.form_table TD.pos { width:35px;  text-align:center; font-weight:bold; }
+.form_table TD.total { width:35px; text-align:center; font-weight:bold; }
+.form_table TD.points { text-align:center; }
+.form_table TD.xbox { background:#eee !important; }
+.formInput { width:200px; }
+.selected { color:#000000; text-decoration:none; font-weight:bold; }
+#admin_sub_nav { padding-bottom:30px; }
+.smaller { font-size:smaller; }
+
+.thumb_img_div { float:left; width:40px; height:35px; margin:1px; padding:0;}
+.settings_image { float:left; margin-right:3px; height:37px; width:50px; padding:0; text-align:right; }
+.settings_image img:hover { border-left:1px solid #ffffff; border-bottom:1px solid #ffffff; border-top:0; border-right:0; }
+#div_comment { margin-bottom:1em;}
+.private_comment, .private_comment a { color:#777777; }
+
+.subnav { margin:0 0 1em 0; text-decoration:none; }
+.subnav .selected { font-weight:bold; }
+
+#editor_content TABLE { background:#ccc; }
+#editor_content TABLE TD { padding:3px 6px; background:#fafafa; }
+
+.alert { margin:2em 0; padding:15px; background:lightyellow; border:1px solid #ccc; }
+
+#show_member_login { color:red; font-weight:bold; }
+
+#mycourts_logo { background:url(../images/mycourts_logo.png) top center no-repeat; height:71px; }
+
+.img_inline { vertical-align:text-bottom; }
+.opponent { padding-left:36px; }
+
+.link_button { padding:3px 10px; background:#f00; color:white; text-decoration:none; text-transform:uppercase; font-weight:bold; }
+.link_button:HOVER { background:#c00; }
+
+.tbl { background:#fafafa;  }
+.tbl TH { padding:6px 20px 6px 0; border-bottom:1px dotted #ddd; font-weight:bold; text-align:left; }
+.tbl TD { padding:6px 20px 6px 0; border-bottom:1px dotted #ddd; vertical-align:top; }
+#account_balance_wrapper { margin:1em 0; }
+#account_balance_heading { font-weight:bold; }
+.na { color:#777 !important; }
+#court_times { /*margin:16px 0;*/ }
+#court_times A { /*margin:0 15px 0 0;*/ margin:0; text-transform:uppercase; }
+#sponsor_banners {  }
+
+/********* v1
+UL.tabs { margin:1em 0 2em 0; padding:0; list-style:none; border-bottom:1px solid #aaa; }
+UL.tabs LI { display:inline; margin:0 2px 0 0; }
+UL.tabs LI A { 
+	text-decoration:none; 
+	padding:3px 10px 0 10px; 
+	border-top:1px solid #ccc; 
+	border-right:1px solid #ccc; 
+	border-bottom:1px solid #aaa;   
+	border-left:1px solid #ccc;
+	background:#eee;
+	} 
+UL.tabs LI A:HOVER { background:#fff;   } 
+UL.tabs LI A.selected { 
+	border-top:1px solid #aaa; 
+	border-right:1px solid #aaa; 
+	border-bottom:1px solid #fff;   
+	border-left:1px solid #aaa;
+	background:#fff;   
+	} 
+*********************/
+
+UL.tabs { margin:.5em 0; padding:0; list-style:none; border-bottom:0;  }
+UL.tabs LI { display:inline; }
+UL.tabs LI A {
+	display:inline-block;
+	margin:0 0 .5em 0;
+	padding:3px 10px; 
+	border:1px solid #ccc; 
+	text-decoration:none; 
+	background:#eee;
+	color:#555;
+	white-space:nowrap;
+	} 
+UL.tabs LI A:HOVER { background:yellow;   } 
+UL.tabs LI A.selected { 
+	background:yellow; font-weight:normal;
+	color:#000;
+	} 
+
+#facebook_twitter { display:none; }
+
+A.small_button { margin:0 3px 0 0; padding:3px 6px; border:1px solid #ddd; background:#eee; text-decoration:none; }
+A.small_button:HOVER, A.btn_selected { text-decoration:none; background:yellow; }
+
+TABLE.tournament_tbl { margin:1em 0; border-collapse:collapse; }
+TABLE.tournament_tbl TH, TABLE.tournament_tbl TD { border:1px solid #ccc; padding:3px 6px; }
+TABLE.tournament_tbl TH { background:#ddd; }
+TABLE.tournament_tbl TD { background:#fafafa; }
+/*TABLE.tournament_tbl TD A { color:blue; text-decoration:none; }
+TABLE.tournament_tbl TD A:HOVER { color:blue; text-decoration:underline; background:#ffe; }*/
+
+TABLE.tt { margin:1em 0; border-collapse:collapse; width:auto; }
+TABLE.tt TH, TABLE.tt TD {  padding:3px; border-left:1px solid #eee; border-right:1px solid #eee; border-bottom:0px solid red; white-space:nowrap; }
+TABLE.tt TH { background:#ddd; }
+TABLE.tt TD { background:#fff; min-width:100px; }
+TABLE.tt TD A { text-decoration:none; }
+TABLE.tt TD.tv { border-right:1px solid #000 !important; }
+TABLE.tt TD.th { border-bottom:1px solid #000 !important; }
+TABLE.tt TD.tvh { border-right:1px solid #000 !important; border-bottom:1px solid #000 !important; }
+
+DIV.slot { display:block; margin-bottom:0; padding:0 3px 2px 3px; min-height:38px; border:0; border-top:1px dotted #aaa; }
+DIV.slot:HOVER { background:lightyellow; cursor:pointer;  }
+DIV.slot.selected { background:yellow; font-weight:normal;	 }
+DIV.slot SPAN.cost { display:block; clear:both; margin-left:36px; color:#999; }
+
+#select_date { background:none; }
+DIV#select_date DIV.left_side_date A {
+	margin:0;
+	padding:3px 0 3px 15px;
+	display:block; 
+	text-decoration:none;
+	border-bottom:1px dotted #ccc;
+	background:#fff;
+	}
+DIV#select_date DIV.left_side_date:first-child A  { border-top:1px dotted #ccc; }
+DIV#select_date DIV.left_side_date A:HOVER, DIV#select_date DIV.left_side_date A.selected { background:yellow; font-weight:normal; text-decoration:none; } 	
+
+TABLE#activity_bookings { margin:1em 0; background:none; border-collapse:collapse;  }
+TABLE#activity_bookings TD { background:#fafafa; border:1px solid #ccc; }
+TABLE#activity_bookings TD.activity_name SPAN { text-transform:uppercase; font-weight:bold; }
+	A.book_now_activity { text-transform:uppercase; font-weight:bold;  }
+	A.book_now_activity:HOVER { background:yellow; }
